@@ -1,0 +1,8 @@
+E:\Development\TestCI\CIDemo\CIDemo\bin\CIDemo.dll.config
+E:\Development\TestCI\CIDemo\CIDemo\bin\CIDemo.dll
+E:\Development\TestCI\CIDemo\CIDemo\bin\CIDemo.pdb
+E:\Development\TestCI\CIDemo\CIDemo\obj\Debug\CIDemo.csprojResolveAssemblyReference.cache
+E:\Development\TestCI\CIDemo\CIDemo\obj\Debug\CIDemo.dll
+E:\Development\TestCI\CIDemo\CIDemo\obj\Debug\CIDemo.pdb
+E:\Development\TestCI\CIDemo\CIDemo\bin\Arithmatic.dll
+E:\Development\TestCI\CIDemo\CIDemo\bin\Arithmatic.pdb

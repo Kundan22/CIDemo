@@ -1,0 +1,4 @@
+E:\Development\TestCI\CIDemo\Arithmatic\bin\Debug\Arithmatic.dll
+E:\Development\TestCI\CIDemo\Arithmatic\bin\Debug\Arithmatic.pdb
+E:\Development\TestCI\CIDemo\Arithmatic\obj\Debug\Arithmatic.dll
+E:\Development\TestCI\CIDemo\Arithmatic\obj\Debug\Arithmatic.pdb
