@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Arithmatic
 {
+    /// <summary>
+    /// Simple Arithmatic operations
+    /// </summary>
     public class Arithmatic
     {
         public static Int32 Add(Int32 var1, Int32 var2)
