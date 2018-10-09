@@ -38,7 +38,7 @@ namespace CIDemo
                     break;
             }
 
-            lblResult.Text = "Result: " + _Result.ToString();
+            lblResult.Text = "Result:: " + _Result.ToString();
         }
     }
 }
